@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\LevelUp.js">
+    <Files>
+      <File FileName="Assets\LevelUp.js" Line="23" Column="33" />
+      <File FileName="Assets\Adaptability.js" Line="29" Column="19" />
+      <File FileName="Assets\BasicSlideScrollMovement.js" Line="97" Column="4" />
+      <File FileName="Assets\ChangeModel.js" Line="28" Column="3" />
+      <File FileName="Assets\LevelControl.js" Line="22" Column="69" />
+      <File FileName="Assets\AnimateLoop.js" Line="3" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
